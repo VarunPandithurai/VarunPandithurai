@@ -11,7 +11,7 @@
 
 ### About
 
-I design and build embedded systems for regulated, real-world environments — from medical imaging devices to edge AI platforms. My focus is on production readiness: systems that meet compliance requirements, scale across product lines, and remain maintainable as they evolve.
+I design and build embedded systems for regulated, real-world environments from medical imaging devices to edge AI platforms. My focus is on production readiness: systems that meet compliance requirements, scale across product lines, and remain maintainable as they evolve.
 
 ### What I work on
 
@@ -26,7 +26,7 @@ Research Scholar at **IIT Madras**, working on ambient IoT, sensor design, and e
 
 ### Tech I use
 
-`Embedded Linux` · `C/C++` · `Python` · `NVIDIA Jetson` · `Raspberry Pi` · `Altium` · `MATLAB` · `LTspice` · `V4L2` · `Device Tree` · `LVDS / FPD-Link III / GMSL`
+`Embedded Linux` · `C/C++` · `Python` · `NVIDIA Jetson` · `Raspberry Pi` · `Altium` · `MATLAB` · `LTspice` · `V4L2` · `Device Tree` · `LVDS / FPD-Link III / GMSL` `EMI/EMC Compliant` `Mixed Signal Design` `PCB Design` `Signal Conditioning`
 
 ### Get in touch
 
